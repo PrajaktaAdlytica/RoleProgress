@@ -1,0 +1,5 @@
+DEMO — SYNTHETIC DATA; CONCEPT PREVIEW
+ref,course,provider,date,seat_status,prerequisite,cost,credential_efficacy,source,checked_by,checked_at,recheck_gate
+TR-101,Electrical fundamentals,Northline Training Lab,2026-11-12,6 fictional seats,Introductory electrical safety,Not quoted,Not validated,Fictional provider schedule TR-101,Morgan Vale,2026-10-28,Before recommendation or enrollment
+TR-102,Applied troubleshooting,Northline Training Lab,2026-11-24,Confirmation needed,Provider confirmation needed,Not quoted,Not validated,Fictional draft schedule TR-102,Morgan Vale,2026-10-28,Blocked until confirmed
+TR-103,Equipment diagnostics,Harbor Learning Studio,2026-11-18,Unavailable,Not checked,Not quoted,Not validated,Fictional full schedule TR-103,Ari Chen,2026-10-28,Rejected alternative; seek another date

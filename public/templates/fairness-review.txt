@@ -1,0 +1,11 @@
+ROLEPROGRESS — RESEARCH CHECKLIST
+Is a role inference being mistaken for individual evidence?
+Are standards and assessor scope consistent?
+Can the worker inspect, correct and appeal?
+Are training cost, availability and accessibility barriers documented?
+Is consent understandable and distinct from employer marketing?
+Are protected traits absent from the public site and synthetic demo?
+Does outcome analysis address missingness, baseline and small-group privacy?
+Who owns procurement, data retention, licensing and human approval?
+Who can stop a recommendation if biased inference persists?
+No fairness guarantee is implied.

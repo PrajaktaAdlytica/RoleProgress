@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.brand-tools/
+.DS_Store
+.env
+.env.*
+!.env.example
