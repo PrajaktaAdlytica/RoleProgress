@@ -1,0 +1,9 @@
+ROLEPROGRESS — CONCEPT PREVIEW
+1. Inspect the exact claim, source, scope and date.
+2. Preserve the original claim.
+3. Worker states the correction and optional non-sensitive supporting context.
+4. Set pending review; assign reviewer and due date.
+5. Reviewer compares evidence and asks for clarification or records a reasoned outcome.
+6. Accepted correction changes the record; competence still needs appropriate assessment.
+7. Rejected correction includes a reason and a separate appeal/reviewer path.
+8. Notify the worker only in a future approved operating service. This demo sends nothing.

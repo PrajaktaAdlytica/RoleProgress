@@ -1,0 +1,8 @@
+DEMO — SYNTHETIC DATA; outcomes not measured
+metric,definition,baseline,result,owner,source
+Correction rate,Corrections / reviewed claims,Not established,Not measured,To agree,Correction log
+Attendance,Attendees / confirmed enrollments,Not established,Not measured,To agree,Provider attendance
+Interviews,Interviews / participants,Not established,Not measured,To agree,Employer confirmation
+Placements/internal moves,Documented transitions / participants,Not established,Not measured,To agree,Employer confirmation
+Assessment cost,Total cost / assessed participants,Not established,Not measured,To agree,Assessment log
+Subgroup fairness,Disparities; access; missingness; small-cell privacy,Not established,Not measured,To agree,Governed audit

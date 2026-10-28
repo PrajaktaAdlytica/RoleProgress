@@ -1,0 +1,8 @@
+label,meaning,does_not_establish,required_fields
+Worker self-report,Worker states a skill or credential,Verified competence,claim;worker consent;date;scope
+Supervisor validation,Named supervisor confirms specified observation,Competence beyond observed scope,assessor;method;scope;date;source
+Assessment,Performance assessed against explicit standard,Permanent or universal competence,standard;result;assessor;date;scope
+Occupational inference,Candidate association from role reference,Any individual competence,taxonomy ID;version;source;review owner
+Credential document,Document supplied for review,Authenticity or efficacy until checked,issuer;issue and expiry;verification source
+Evidence absent,Supporting evidence not attached,Lack of ability,gap;next action;owner
+Correction pending,Worker challenges a claim,Resolution or rejection,original claim;statement;reviewer;due date;appeal path

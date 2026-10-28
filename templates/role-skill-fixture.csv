@@ -1,0 +1,4 @@
+DEMO — SYNTHETIC DATA; CONCEPT PREVIEW
+worker_id,current_role,target_role,current_onet_soc_2019,target_onet_soc_2019,database_release,esco_uri,skill,evidence_type,source_ref,review_state,owner,source_date,next_action_date
+WN-024,Warehouse associate,Maintenance technician,53-7062.00,49-9071.00,Release pin pending,Mapping pending,Forklift credential,Worker self-report,SR-024,Unverified,Morgan Vale,2026-10-27,2026-10-30
+WN-024,Warehouse associate,Maintenance technician,53-7062.00,49-9071.00,Release pin pending,Mapping pending,Electrical troubleshooting,Supervisor observation,OBS-024,Review pending,Morgan Vale,2026-10-28,2026-10-30
