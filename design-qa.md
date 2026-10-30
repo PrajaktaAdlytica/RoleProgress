@@ -115,3 +115,6 @@ Update result: passed.
 - No browser console errors or failed loaded images observed on homepage (one offscreen image remained lazy-loaded).
 - Added Apache/LiteSpeed .htaccess for client-side route refreshes, excluding missing file and API paths.
 - Hostinger server-specific rewrite and DNS/SSL behavior must be checked after deployment. Forms and auth remain preview-only.
+
+## Intro scroll alignment fix
+Lenis applies CSS scroll-margin and document scroll-padding when given an element target. The old explicit -80 offset compounded those values and left an intro strip visible. The intro transition now uses an absolute document coordinate minus the measured navbar height, avoiding duplicate offsets and supporting the mobile navbar height.
